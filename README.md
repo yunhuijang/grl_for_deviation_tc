@@ -1,4 +1,5 @@
-# grl_for_deviation_tc
+# Graph representation learning for deviation-aware trace clustering
+
  Graph representation learning for deviation-aware trace clustering
 
  Use additional python implementations:
